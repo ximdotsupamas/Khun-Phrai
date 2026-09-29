@@ -6,9 +6,9 @@
 - **Engine & Tools:** Unity Engine / Blender(3D Asset Design)
 - **Genre & Platform:** Souls-like Survival (PC)
 - **Project Status:** Work In Progress
-- **Link:** [Demo / Executable] | [GDD PDF] | [Gameplay Video]
 
 # World Setting
+![World Setting](Image/world.png)
 ในยุคสมัยของ Yautaya (ได้รับแรงบันดาลใจมาจากวรรณคดีเรือง ขุนช้างขุนแผน) เป็นช่วงทีบ้านเมืองระสําระสายจนได้เกิดเปน **“สงครามแห่งอาคมมืด”** กองทัพจากต่างเมืองใช้วิชาไสยศาสตร์ดํารวบรวม **"พลังงานวิญญาณ"** ของชาวบ้านเพือทําพิธีกรรมมืด ทําให้สภาพแวดล้อมเต็มไปด้วยหมู่บ้านทีถูกทําลาย และป่าเต็มไปด้วยโจรคนตายไม่ไปผุดไปเกิด วิญญาณเร่ร่อนเพราะแรงอาฆาต
 
 # Story
@@ -16,11 +16,13 @@
 
 
 # Game Mechanics & System Design
-- **Core Gameplay Loop:** 
-- **Systems Design:** เช่น ระบบ Day/Night, ระบบ Era Progression, ระบบ Economy
-- **Quest & Narrative Architecture:** โครงสร้างเควสหลัก/ย่อย การเชื่อมโยงเนื้อเรื่อง
+- **Core Gameplay Loop:** ![World Setting](Image/world.png)
+- **Systems Design:**
+  > ระบบ Day/Night ![World Setting](Image/world.png)
+  > ระบบ Era Progression ![World Setting](Image/world.png)
+  > ระบบ Economy ![World Setting](Image/world.png)
+- **Quest & Narrative Architecture:**
+  > โครงสร้างเควสหลัก/ย่อย
 
-# Documentation & GDD Highlights
-โชว์ว่าคุณเขียน GDD และสื่อสารกับทีม Dev/Art ได้อย่างมืออาชีพ
-- มีลิงก์แนบ GDD ( PDF หรือ Notion ) ให้กดอ่านตัวเต็มได้
-- ตัวอย่าง Diagrams / Tables / Flowcharts / Wireframes ที่คุณวาดขึ้นเอง
+# Link
+- [Intro Video](https://youtu.be/CqWHmPapPRg?si=aEk3hbZCRT6qAFp-)
