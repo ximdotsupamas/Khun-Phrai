@@ -16,7 +16,7 @@
 
 
 # Game Mechanics & System Design
-- **Core Gameplay Loop:** ![World Setting](Image/world.png)
+- **Core Gameplay Loop:** ![Core Gameplay](Diagram/Diagram-Gameloop.drawio.png)
 - **Systems Design:**
   > ระบบการต่อสู้ระยะใกล้ ![Combat](Gif/Combat.gif)
   > ระบบการต่อสู้ระยะไกล ![Combat2](Gif/Combat2.gif)
@@ -26,3 +26,4 @@
 
 # Link
 - [Intro Video](https://youtu.be/CqWHmPapPRg?si=aEk3hbZCRT6qAFp-)
+- [GDD]()
