@@ -18,9 +18,9 @@
 # Game Mechanics & System Design
 - **Core Gameplay Loop:** ![World Setting](Image/world.png)
 - **Systems Design:**
-  > ระบบ Day/Night ![World Setting](Image/world.png)
-  > ระบบ Era Progression ![World Setting](Image/world.png)
-  > ระบบ Economy ![World Setting](Image/world.png)
+  > ระบบการต่อสู้ระยะใกล้ ![Combat](Gif/Combat.gif)
+  > ระบบการต่อสู้ระยะไกล ![Combat2](Gif/Combat2.gif)
+  > ระบบการเก็บเกี่ยวทรัพยากร ![Farming](Gif/CuttingTree.gif) ![Farming](Gif/Mining.gif)
 - **Quest & Narrative Architecture:**
   > โครงสร้างเควสหลัก/ย่อย
 
