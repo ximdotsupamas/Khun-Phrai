@@ -9,7 +9,7 @@
 
 # Key Features
 - ระบบการต่อสู้ด้วยไสยศาสตร์ไทย
-> ![Lab](VDO/Lab.gif)
+> ![Gameplay](https://[i.imgur.com/example.gif](https://media.giphy.com/media/jXxJJIXE3snn7VKNH8/giphy.gif))
 - การสำรวจพื้นที่อันตราย เพื่อรวบรวมทรัพยากร
 > ![Lab](VDO/Lab.gif)
 - การฟื้นฟูหมู่บ้าน
