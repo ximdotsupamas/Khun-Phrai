@@ -9,4 +9,4 @@
 
 # Link
 - [Intro Video](https://youtu.be/CqWHmPapPRg?si=aEk3hbZCRT6qAFp-)
-- [GDD]()
+- [GDD](GDD.md)
