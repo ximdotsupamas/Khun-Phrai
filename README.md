@@ -8,17 +8,20 @@
 - **Project Status:** Work In Progress
 
 # Key Features
-- ระบบการต่อสู้ด้วยไสยศาสตร์ไทย
-> ![Gameplay](https://[i.imgur.com/example.gif](https://media.giphy.com/media/jXxJJIXE3snn7VKNH8/giphy.gif))
-- การสำรวจพื้นที่อันตราย เพื่อรวบรวมทรัพยากร
-> ![Lab](VDO/Lab.gif)
-- การฟื้นฟูหมู่บ้าน
-> ![Lab](VDO/Lab.gif)
-- การต่อสู้กับเหล่าศัตรู
-> ![Lab](VDO/Lab.gif)
-- การต่อสู้กับแม่ทัพเพื่อช่วยเหลือชาวบ้านที่ตกเป็นเชลย
-> ![Lab](VDO/Lab.gif)
+- **ระบบการต่อสู้ด้วยไสยศาสตร์ไทย**
+> ![Attack](assets/Pic_Feature/Aim.png)
+- **การสำรวจพื้นที่อันตราย เพื่อรวบรวมทรัพยากร**
+> ![Sourse1](assets/Pic_Feature/Wood.png)
+> ![Sourse2](assets/Pic_Feature/Environment.png)
+- **การฟื้นฟูหมู่บ้าน**
+> ![Upgrade1](assets/Pic_Feature/Destroy.png)
+> ![Upgrade2](assets/Pic_Feature/Storage.png)
+- **การต่อสู้กับเหล่าศัตรู**
+> ![Enemy](assets/Pic_Feature/Enemy.png)
+- **การต่อสู้กับแม่ทัพเพื่อช่วยเหลือชาวบ้านที่ตกเป็นเชลย**
+> ![Boss](assets/Pic_Feature/Boss_Attack.png)
 
 # Link
 - [Intro Video](https://youtu.be/CqWHmPapPRg?si=aEk3hbZCRT6qAFp-)
+- [Trailer]()
 - [GDD](GDD.md)
