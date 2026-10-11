@@ -23,5 +23,6 @@
 
 # Link
 - [Intro Video](https://youtu.be/CqWHmPapPRg?si=aEk3hbZCRT6qAFp-)
-- [Trailer]()
+- [Trailer Video](https://youtu.be/nt1PYpG0r6o?si=mtsYAJ0_oCybok30)
+- [GamePlay Video]()
 - [GDD](GDD.md)
