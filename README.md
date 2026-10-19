@@ -3,7 +3,7 @@
 
 # Project Overview
 - **My Role:** Game Designer / Level Designer / System Designer
-- **Engine & Tools:** Unity Engine / Blender(3D Asset Design)
+- **Engine & Tools:** Unity Engine
 - **Genre & Platform:** Soulslike Survival (PC)
 - **Project Status:** Completed Project
 
