@@ -5,7 +5,7 @@
 - **My Role:** Game Designer / Level Designer / System Designer
 - **Engine & Tools:** Unity Engine / Blender(3D Asset Design)
 - **Genre & Platform:** Soulslike Survival (PC)
-- **Project Status:** Work In Progress
+- **Project Status:** Completed Project
 
 # What is Khun Phrai Game?
 - **Khun Phrai (ขุนพราย)** เป็นเกมแนว **Soulslike / Survival** สำหรับผู้เล่นที่ชื่นชอบการต่อสู้ที่ท้าทายและการเอาชีวิตรอดในโลกที่เต็มไปด้วยอันตราย
